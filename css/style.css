@@ -221,6 +221,7 @@ html {
         border: none;
         border-bottom: 1px solid #ccc ;
         line-height: 38px ;
+        outline:none;
     }
 
     #contact-section .send-btn {
